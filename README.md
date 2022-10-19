@@ -14,7 +14,7 @@
     > [_click here_](https://github.com/dvaser/pythonLibrary/tree/main/BasicPython)
 - ### In Lesson Code (.py)
     > [_click here_](https://github.com/dvaser/pythonLibrary/tree/main/Lessons)  
-- ### Python Code Photos (.py)
+- ### Python Code Photos
     > [_click here_](https://github.com/dvaser/pythonLibrary/tree/main/PythonCodePhotos)
 - ### Python Source (pdf)
     > [_click here_](https://github.com/dvaser/pythonLibrary/tree/main/PythonSource)  
